@@ -24,7 +24,8 @@ The system uses a trained regression model to analyze patterns from historical h
 🎨 Clean and professional UI with image support
 
 
-🧠 ML Model Used:
+
+ ML Model Used:
 
 Algorithm: XGBoost Regressor    
 Type: Supervised Machine Learning (Regression)
