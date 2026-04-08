@@ -5,6 +5,7 @@ The House Price Prediction System is a Machine Learning-based web application th
 The system uses a trained regression model to analyze patterns from historical housing data and provide accurate price predictions. The application is built with an interactive user interface using Streamlit, allowing users to input property details and instantly receive predicted results.
 
 ⚙️ Features
+
 🏠 User-friendly web interface using Streamlit
 📐 Input fields for property details (area, bedrooms, bathrooms, etc.)
 📍 Location-based price prediction
