@@ -40,8 +40,11 @@ Handles missing values efficiently
 
 📁 Files Used:
 train.csv → Training dataset (used to train model)
+
 test.csv → Testing dataset
+
 data_description.txt → Feature explanations
+
 sample_submission.csv → Submission format
 
 
@@ -49,9 +52,15 @@ sample_submission.csv → Submission format
 
 📌 Important Features Used:
 GrLivArea → Living area (sq ft)
+
 BedroomAbvGr → Number of bedrooms
+
 FullBath → Number of bathrooms
+
 GarageCars → Garage capacity
+
 TotalBsmtSF → Basement area
+
 YearBuilt → Year of construction
+
 Neighborhood → Location
