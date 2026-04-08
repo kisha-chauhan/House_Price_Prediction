@@ -25,6 +25,7 @@ The system uses a trained regression model to analyze patterns from historical h
 
 
 
+
  ML Model Used:
 
 Algorithm: XGBoost Regressor    
