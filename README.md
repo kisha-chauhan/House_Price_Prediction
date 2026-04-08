@@ -5,32 +5,31 @@ The House Price Prediction System is a Machine Learning-based web application th
 The system uses a trained regression model to analyze patterns from historical housing data and provide accurate price predictions. The application is built with an interactive user interface using Streamlit, allowing users to input property details and instantly receive predicted results.
 
 
-⚙️ Features:
+ ⚙️Features:
 
-🏠 User-friendly web interface using Streamlit
+ User-friendly web interface using Streamlit
 
-📐 Input fields for property details (area, bedrooms, bathrooms, etc.)
+ Input fields for property details (area, bedrooms, bathrooms, etc.)
 
-📍 Location-based price prediction
+ Location-based price prediction
 
-⚡ Real-time price prediction
+ Real-time price prediction
 
-🧮 Automatic data preprocessing (encoding + missing value handling)
+ Automatic data preprocessing (encoding + missing value handling)
 
-❌ Input validation (prevents empty/invalid inputs)
+ Input validation (prevents empty/invalid inputs)
 
-💰 Displays estimated house price instantly
+ Displays estimated house price instantly
 
-🎨 Clean and professional UI with image support
-
-
+ Clean and professional UI with image support
 
 
- ML Model Used:
+
+
+ 🧠ML Model Used:
 
 Algorithm: XGBoost Regressor    
 Type: Supervised Machine Learning (Regression)
-
 Why used:
 High accuracy
 Handles complex relationships
@@ -38,3 +37,21 @@ Works well with structured/tabular data
 Handles missing values efficiently
 
 
+
+📁 Files Used:
+train.csv → Training dataset (used to train model)
+test.csv → Testing dataset
+data_description.txt → Feature explanations
+sample_submission.csv → Submission format
+
+
+
+
+📌 Important Features Used:
+GrLivArea → Living area (sq ft)
+BedroomAbvGr → Number of bedrooms
+FullBath → Number of bathrooms
+GarageCars → Garage capacity
+TotalBsmtSF → Basement area
+YearBuilt → Year of construction
+Neighborhood → Location
