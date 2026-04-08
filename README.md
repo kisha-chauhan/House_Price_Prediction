@@ -7,7 +7,9 @@ The system uses a trained regression model to analyze patterns from historical h
 ⚙️ Features
 
 🏠 User-friendly web interface using Streamlit
+
 📐 Input fields for property details (area, bedrooms, bathrooms, etc.)
+
 📍 Location-based price prediction
 ⚡ Real-time price prediction
 🧮 Automatic data preprocessing (encoding + missing value handling)
