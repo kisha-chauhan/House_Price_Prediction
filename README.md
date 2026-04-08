@@ -11,10 +11,15 @@ The system uses a trained regression model to analyze patterns from historical h
 📐 Input fields for property details (area, bedrooms, bathrooms, etc.)
 
 📍 Location-based price prediction
+
 ⚡ Real-time price prediction
+
 🧮 Automatic data preprocessing (encoding + missing value handling)
+
 ❌ Input validation (prevents empty/invalid inputs)
+
 💰 Displays estimated house price instantly
+
 🎨 Clean and professional UI with image support
 
 
