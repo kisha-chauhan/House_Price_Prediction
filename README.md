@@ -34,7 +34,7 @@ The system uses a trained regression model to analyze patterns from historical h
 
 Algorithm: XGBoost Regressor    
 Type: Supervised Machine Learning 
-Why used:High accuracy Handles complex relationships Works well with structured/tabular data Handles missing values efficiently
+Why used: High accuracy Handles complex relationships Works well with structured/tabular data Handles missing values efficiently
 
 
 
